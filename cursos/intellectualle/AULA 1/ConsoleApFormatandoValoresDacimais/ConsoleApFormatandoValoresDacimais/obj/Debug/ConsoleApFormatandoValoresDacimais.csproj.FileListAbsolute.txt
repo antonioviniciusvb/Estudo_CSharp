@@ -1,0 +1,5 @@
+F:\C#\AULA 1\ConsoleApFormatandoValoresDacimais\ConsoleApFormatandoValoresDacimais\bin\Debug\ConsoleApFormatandoValoresDacimais.exe.config
+F:\C#\AULA 1\ConsoleApFormatandoValoresDacimais\ConsoleApFormatandoValoresDacimais\bin\Debug\ConsoleApFormatandoValoresDacimais.exe
+F:\C#\AULA 1\ConsoleApFormatandoValoresDacimais\ConsoleApFormatandoValoresDacimais\bin\Debug\ConsoleApFormatandoValoresDacimais.pdb
+F:\C#\AULA 1\ConsoleApFormatandoValoresDacimais\ConsoleApFormatandoValoresDacimais\obj\Debug\ConsoleApFormatandoValoresDacimais.exe
+F:\C#\AULA 1\ConsoleApFormatandoValoresDacimais\ConsoleApFormatandoValoresDacimais\obj\Debug\ConsoleApFormatandoValoresDacimais.pdb

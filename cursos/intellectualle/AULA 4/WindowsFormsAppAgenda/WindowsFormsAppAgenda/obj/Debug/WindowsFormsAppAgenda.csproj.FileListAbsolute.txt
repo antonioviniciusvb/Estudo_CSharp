@@ -1,0 +1,2 @@
+F:\C#\AULA 4\WindowsFormsAppAgenda\WindowsFormsAppAgenda\bin\Debug\WindowsFormsAppAgenda.exe.config
+E:\C#\AULA 4\WindowsFormsAppAgenda\WindowsFormsAppAgenda\bin\Debug\WindowsFormsAppAgenda.exe.config

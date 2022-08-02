@@ -1,0 +1,6 @@
+F:\C#\AULA 2\ConsoleApp_EX1\ConsoleApp_EX1\bin\Debug\ConsoleApp_EX1.exe
+F:\C#\AULA 2\ConsoleApp_EX1\ConsoleApp_EX1\bin\Debug\ConsoleApp_EX1.pdb
+F:\C#\AULA 2\ConsoleApp_EX1\ConsoleApp_EX1\obj\x86\Debug\ConsoleApp_EX1.exe
+F:\C#\AULA 2\ConsoleApp_EX1\ConsoleApp_EX1\obj\x86\Debug\ConsoleApp_EX1.pdb
+E:\C#\AULA 2\MATRIZES\ConsoleApp_EX1\ConsoleApp_EX1\obj\x86\Debug\ConsoleApp_EX1.exe
+E:\C#\AULA 2\MATRIZES\ConsoleApp_EX1\ConsoleApp_EX1\obj\x86\Debug\ConsoleApp_EX1.pdb

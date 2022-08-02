@@ -1,0 +1,9 @@
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Poliformismo\WindowsFormsApp_Poliformismo\bin\Debug\WindowsFormsApp_Poliformismo.exe.config
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Poliformismo\WindowsFormsApp_Poliformismo\bin\Debug\WindowsFormsApp_Poliformismo.exe
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Poliformismo\WindowsFormsApp_Poliformismo\bin\Debug\WindowsFormsApp_Poliformismo.pdb
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Poliformismo\WindowsFormsApp_Poliformismo\obj\Debug\WindowsFormsApp_Poliformismo.csprojResolveAssemblyReference.cache
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Poliformismo\WindowsFormsApp_Poliformismo\obj\Debug\WindowsFormsApp_Poliformismo.Form1.resources
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Poliformismo\WindowsFormsApp_Poliformismo\obj\Debug\WindowsFormsApp_Poliformismo.Properties.Resources.resources
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Poliformismo\WindowsFormsApp_Poliformismo\obj\Debug\WindowsFormsApp_Poliformismo.csproj.GenerateResource.Cache
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Poliformismo\WindowsFormsApp_Poliformismo\obj\Debug\WindowsFormsApp_Poliformismo.exe
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Poliformismo\WindowsFormsApp_Poliformismo\obj\Debug\WindowsFormsApp_Poliformismo.pdb

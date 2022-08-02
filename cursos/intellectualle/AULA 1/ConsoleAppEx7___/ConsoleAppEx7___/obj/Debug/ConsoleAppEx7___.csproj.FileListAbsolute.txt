@@ -1,0 +1,6 @@
+E:\C#\AULA 1\ConsoleAppEx7___\ConsoleAppEx7___\bin\Debug\ConsoleAppEx7___.exe.config
+E:\C#\AULA 1\ConsoleAppEx7___\ConsoleAppEx7___\bin\Debug\ConsoleAppEx7___.exe
+E:\C#\AULA 1\ConsoleAppEx7___\ConsoleAppEx7___\bin\Debug\ConsoleAppEx7___.pdb
+E:\C#\AULA 1\ConsoleAppEx7___\ConsoleAppEx7___\obj\Debug\ConsoleAppEx7___.csprojResolveAssemblyReference.cache
+E:\C#\AULA 1\ConsoleAppEx7___\ConsoleAppEx7___\obj\Debug\ConsoleAppEx7___.exe
+E:\C#\AULA 1\ConsoleAppEx7___\ConsoleAppEx7___\obj\Debug\ConsoleAppEx7___.pdb

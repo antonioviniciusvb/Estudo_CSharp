@@ -1,0 +1,9 @@
+F:\C#\AULA 3\Nova pasta\WindowsFormsApp_Hotel\WindowsFormsApp_Hotel\bin\Debug\WindowsFormsApp_Hotel.exe
+F:\C#\AULA 3\Nova pasta\WindowsFormsApp_Hotel\WindowsFormsApp_Hotel\bin\Debug\WindowsFormsApp_Hotel.pdb
+F:\C#\AULA 3\Nova pasta\WindowsFormsApp_Hotel\WindowsFormsApp_Hotel\obj\x86\Debug\WindowsFormsApp_Hotel.Properties.Resources.resources
+F:\C#\AULA 3\Nova pasta\WindowsFormsApp_Hotel\WindowsFormsApp_Hotel\obj\x86\Debug\WindowsFormsApp_Hotel.csproj.GenerateResource.Cache
+F:\C#\AULA 3\Nova pasta\WindowsFormsApp_Hotel\WindowsFormsApp_Hotel\obj\x86\Debug\WindowsFormsApp_Hotel.exe
+F:\C#\AULA 3\Nova pasta\WindowsFormsApp_Hotel\WindowsFormsApp_Hotel\obj\x86\Debug\WindowsFormsApp_Hotel.pdb
+F:\C#\AULA 3\Nova pasta\WindowsFormsApp_Hotel\WindowsFormsApp_Hotel\obj\x86\Debug\WindowsFormsApp_Hotel.FrmHotel.resources
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Hotel\WindowsFormsApp_Hotel\obj\x86\Debug\WindowsFormsApp_Hotel.exe
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Hotel\WindowsFormsApp_Hotel\obj\x86\Debug\WindowsFormsApp_Hotel.pdb

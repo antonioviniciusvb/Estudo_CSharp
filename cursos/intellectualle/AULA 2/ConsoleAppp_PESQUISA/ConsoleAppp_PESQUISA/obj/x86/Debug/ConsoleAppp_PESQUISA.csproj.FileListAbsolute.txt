@@ -1,0 +1,4 @@
+F:\C#\AULA 2\ConsoleAppp_PESQUISA\ConsoleAppp_PESQUISA\bin\Debug\ConsoleAppp_PESQUISA.exe
+F:\C#\AULA 2\ConsoleAppp_PESQUISA\ConsoleAppp_PESQUISA\bin\Debug\ConsoleAppp_PESQUISA.pdb
+F:\C#\AULA 2\ConsoleAppp_PESQUISA\ConsoleAppp_PESQUISA\obj\x86\Debug\ConsoleAppp_PESQUISA.exe
+F:\C#\AULA 2\ConsoleAppp_PESQUISA\ConsoleAppp_PESQUISA\obj\x86\Debug\ConsoleAppp_PESQUISA.pdb

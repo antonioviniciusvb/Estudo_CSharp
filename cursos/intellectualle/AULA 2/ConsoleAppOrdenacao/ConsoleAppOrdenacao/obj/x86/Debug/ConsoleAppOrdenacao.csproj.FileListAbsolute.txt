@@ -1,0 +1,4 @@
+F:\C#\AULA 2\ConsoleAppOrdenacao\ConsoleAppOrdenacao\bin\Debug\ConsoleAppOrdenacao.exe
+F:\C#\AULA 2\ConsoleAppOrdenacao\ConsoleAppOrdenacao\bin\Debug\ConsoleAppOrdenacao.pdb
+F:\C#\AULA 2\ConsoleAppOrdenacao\ConsoleAppOrdenacao\obj\x86\Debug\ConsoleAppOrdenacao.exe
+F:\C#\AULA 2\ConsoleAppOrdenacao\ConsoleAppOrdenacao\obj\x86\Debug\ConsoleAppOrdenacao.pdb

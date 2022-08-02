@@ -1,0 +1,9 @@
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Calculadora\WindowsFormsApp_Calculadora\bin\Debug\WindowsFormsApp_Calculadora.exe.config
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Calculadora\WindowsFormsApp_Calculadora\bin\Debug\WindowsFormsApp_Calculadora.exe
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Calculadora\WindowsFormsApp_Calculadora\bin\Debug\WindowsFormsApp_Calculadora.pdb
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Calculadora\WindowsFormsApp_Calculadora\obj\Debug\WindowsFormsApp_Calculadora.csprojResolveAssemblyReference.cache
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Calculadora\WindowsFormsApp_Calculadora\obj\Debug\WindowsFormsApp_Calculadora.Form1.resources
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Calculadora\WindowsFormsApp_Calculadora\obj\Debug\WindowsFormsApp_Calculadora.Properties.Resources.resources
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Calculadora\WindowsFormsApp_Calculadora\obj\Debug\WindowsFormsApp_Calculadora.csproj.GenerateResource.Cache
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Calculadora\WindowsFormsApp_Calculadora\obj\Debug\WindowsFormsApp_Calculadora.exe
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Calculadora\WindowsFormsApp_Calculadora\obj\Debug\WindowsFormsApp_Calculadora.pdb

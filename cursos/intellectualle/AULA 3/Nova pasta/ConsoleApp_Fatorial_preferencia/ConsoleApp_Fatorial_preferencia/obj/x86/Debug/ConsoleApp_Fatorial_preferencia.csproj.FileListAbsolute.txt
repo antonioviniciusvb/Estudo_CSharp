@@ -1,0 +1,4 @@
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Fatorial_preferencia\ConsoleApp_Fatorial_preferencia\bin\Debug\ConsoleApp_Fatorial_preferencia.exe
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Fatorial_preferencia\ConsoleApp_Fatorial_preferencia\bin\Debug\ConsoleApp_Fatorial_preferencia.pdb
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Fatorial_preferencia\ConsoleApp_Fatorial_preferencia\obj\x86\Debug\ConsoleApp_Fatorial_preferencia.exe
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Fatorial_preferencia\ConsoleApp_Fatorial_preferencia\obj\x86\Debug\ConsoleApp_Fatorial_preferencia.pdb

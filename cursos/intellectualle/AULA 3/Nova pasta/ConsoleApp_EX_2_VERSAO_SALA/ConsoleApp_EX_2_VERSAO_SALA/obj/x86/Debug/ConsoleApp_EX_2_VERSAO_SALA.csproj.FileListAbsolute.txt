@@ -1,0 +1,9 @@
+F:\C#\AULA 3\Nova pasta\ConsoleApp_EX_2_VERSAO_SALA\ConsoleApp_EX_2_VERSAO_SALA\bin\Debug\ConsoleApp_EX_2_VERSAO_SALA.exe
+F:\C#\AULA 3\Nova pasta\ConsoleApp_EX_2_VERSAO_SALA\ConsoleApp_EX_2_VERSAO_SALA\bin\Debug\ConsoleApp_EX_2_VERSAO_SALA.pdb
+F:\C#\AULA 3\Nova pasta\ConsoleApp_EX_2_VERSAO_SALA\ConsoleApp_EX_2_VERSAO_SALA\obj\x86\Debug\ConsoleApp_EX_2_VERSAO_SALA.exe
+F:\C#\AULA 3\Nova pasta\ConsoleApp_EX_2_VERSAO_SALA\ConsoleApp_EX_2_VERSAO_SALA\obj\x86\Debug\ConsoleApp_EX_2_VERSAO_SALA.pdb
+E:\C#\AULA 3\Nova pasta\ConsoleApp_EX_2_VERSAO_SALA\ConsoleApp_EX_2_VERSAO_SALA\obj\x86\Debug\ConsoleApp_EX_2_VERSAO_SALA.exe
+E:\C#\AULA 3\Nova pasta\ConsoleApp_EX_2_VERSAO_SALA\ConsoleApp_EX_2_VERSAO_SALA\obj\x86\Debug\ConsoleApp_EX_2_VERSAO_SALA.pdb
+E:\C#\AULA 3\Nova pasta\ConsoleApp_EX_2_VERSAO_SALA\ConsoleApp_EX_2_VERSAO_SALA\obj\x86\Debug\ConsoleApp_EX_2_VERSAO_SALA.csprojResolveAssemblyReference.cache
+E:\C#\AULA 3\Nova pasta\ConsoleApp_EX_2_VERSAO_SALA\ConsoleApp_EX_2_VERSAO_SALA\bin\Debug\ConsoleApp_EX_2_VERSAO_SALA.exe
+E:\C#\AULA 3\Nova pasta\ConsoleApp_EX_2_VERSAO_SALA\ConsoleApp_EX_2_VERSAO_SALA\bin\Debug\ConsoleApp_EX_2_VERSAO_SALA.pdb

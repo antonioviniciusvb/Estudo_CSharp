@@ -1,0 +1,4 @@
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Calculadora_2valores_entrada\ConsoleApp_Calculadora_2valores_entrada\bin\Debug\ConsoleApp_Calculadora_2valores_entrada.exe
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Calculadora_2valores_entrada\ConsoleApp_Calculadora_2valores_entrada\bin\Debug\ConsoleApp_Calculadora_2valores_entrada.pdb
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Calculadora_2valores_entrada\ConsoleApp_Calculadora_2valores_entrada\obj\x86\Debug\ConsoleApp_Calculadora_2valores_entrada.exe
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Calculadora_2valores_entrada\ConsoleApp_Calculadora_2valores_entrada\obj\x86\Debug\ConsoleApp_Calculadora_2valores_entrada.pdb

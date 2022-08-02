@@ -1,0 +1,6 @@
+E:\C#\AULA 1\ConsoleApp_ARRAY\ConsoleApp_ARRAY\bin\Debug\ConsoleApp_ARRAY.exe.config
+E:\C#\AULA 1\ConsoleApp_ARRAY\ConsoleApp_ARRAY\bin\Debug\ConsoleApp_ARRAY.exe
+E:\C#\AULA 1\ConsoleApp_ARRAY\ConsoleApp_ARRAY\bin\Debug\ConsoleApp_ARRAY.pdb
+E:\C#\AULA 1\ConsoleApp_ARRAY\ConsoleApp_ARRAY\obj\Debug\ConsoleApp_ARRAY.csprojResolveAssemblyReference.cache
+E:\C#\AULA 1\ConsoleApp_ARRAY\ConsoleApp_ARRAY\obj\Debug\ConsoleApp_ARRAY.exe
+E:\C#\AULA 1\ConsoleApp_ARRAY\ConsoleApp_ARRAY\obj\Debug\ConsoleApp_ARRAY.pdb

@@ -1,0 +1,54 @@
+1. Escreva um programa que calcule o salário semanal de um trabalhador. As entradas são o número de horas 
+trabalhadas na semana e o valor da hora. Até 40 h/semana não se acrescenta nenhum adicional. 
+Acima de 40h e até 60h há um bônus de 50% para essas horas. Acima de 60h há um bônus de 100% para essas horas.
+
+2. Um pecuarista possui uma determinada quantia de bois, que possuem um identificador numérico (de 1 a n) 
+cada um. Faça um programa que:
+
+a. receba o peso de cada boi, um por vez, e o armazene em um vetor. Se o peso digitado for 0 significa que não 
+há mais bois a serem digitados;
+
+b. mostre a lista de todos os bois com seus identificadores e também os identificadores do boi mais gordo e do boi 
+mais magro. Se houver dois ou mais bois mais gordos ou mais magros mostrar o de menor identificador;
+
+c. Faça o mesmo programa considerando que o número de bois é fixo e igual a dez.
+
+
+3 Um cinema que possui capacidade de 20 lugares está sempre lotado. Certo dia cada espectador respondeu a um questionário,
+onde constava:
+
+- sua idade;
+
+- sua opinião em relação ao filme, que podia ser: ótimo, bom, regular, ruim ou péssimo.
+
+
+Elabore um programa que, recebendo estes dados calcule e mostre:
+
+a. a quantidade de respostas ótimo;
+
+b. a diferença percentual entre respostas bom e regular;
+
+c. a média de idade das pessoas que responderam ruim;
+
+d. a porcentagem de respostas péssimo e a maior idade que utilizou esta opção;
+
+e. a diferença de idade entre a maior idade que respondeu ótimo e a maior idade que respondeu ruim.
+
+
+
+4 Faça um programa que receba uma matriz 5x5 valores do tipo int do usuário, um valor de cada vez, e imprima a sua matriz transposta
+(Obs: a matriz transposta é obtida permutando-se as linhas e as colunas de uma matriz.
+
+
+5 Escreva um programa que leia uma matriz n x m do usuário e a transforme em um vetor unidimensional de n.m posições
+
+
+6. Fazer um programa para:
+
+a. receber 3 notas parciais do aluno em um vetor e a nota do exame em uma variável separada (-1 se o aluno não fez exame).
+
+b. chamar a função SITUACAO, com as seguintes características:
+
+i. Parâmetros: vetor de notas parciais e nota do exame
+
+ii. Retorno: 0 se o aluno está reprovado direto, 1 se o aluno está reprovado em exame, 2 se o aluno está aprovado em exame e 3 se ele está aprovado direto.

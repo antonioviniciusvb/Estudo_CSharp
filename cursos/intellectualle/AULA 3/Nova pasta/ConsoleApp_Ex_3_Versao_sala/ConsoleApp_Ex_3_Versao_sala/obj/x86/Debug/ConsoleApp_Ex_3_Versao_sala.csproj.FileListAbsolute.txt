@@ -1,0 +1,6 @@
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Ex_3_Versao_sala\ConsoleApp_Ex_3_Versao_sala\bin\Debug\ConsoleApp_Ex_3_Versao_sala.exe
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Ex_3_Versao_sala\ConsoleApp_Ex_3_Versao_sala\bin\Debug\ConsoleApp_Ex_3_Versao_sala.pdb
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Ex_3_Versao_sala\ConsoleApp_Ex_3_Versao_sala\obj\x86\Debug\ConsoleApp_Ex_3_Versao_sala.exe
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Ex_3_Versao_sala\ConsoleApp_Ex_3_Versao_sala\obj\x86\Debug\ConsoleApp_Ex_3_Versao_sala.pdb
+E:\C#\AULA 3\Nova pasta\ConsoleApp_Ex_3_Versao_sala\ConsoleApp_Ex_3_Versao_sala\obj\x86\Debug\ConsoleApp_Ex_3_Versao_sala.exe
+E:\C#\AULA 3\Nova pasta\ConsoleApp_Ex_3_Versao_sala\ConsoleApp_Ex_3_Versao_sala\obj\x86\Debug\ConsoleApp_Ex_3_Versao_sala.pdb

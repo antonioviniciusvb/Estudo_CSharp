@@ -1,0 +1,9 @@
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Protocolo\WindowsFormsApp_Protocolo\bin\Debug\WindowsFormsApp_Protocolo.exe.config
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Protocolo\WindowsFormsApp_Protocolo\bin\Debug\WindowsFormsApp_Protocolo.exe
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Protocolo\WindowsFormsApp_Protocolo\bin\Debug\WindowsFormsApp_Protocolo.pdb
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Protocolo\WindowsFormsApp_Protocolo\obj\Debug\WindowsFormsApp_Protocolo.csprojResolveAssemblyReference.cache
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Protocolo\WindowsFormsApp_Protocolo\obj\Debug\WindowsFormsApp_Protocolo.Form1.resources
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Protocolo\WindowsFormsApp_Protocolo\obj\Debug\WindowsFormsApp_Protocolo.Properties.Resources.resources
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Protocolo\WindowsFormsApp_Protocolo\obj\Debug\WindowsFormsApp_Protocolo.csproj.GenerateResource.Cache
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Protocolo\WindowsFormsApp_Protocolo\obj\Debug\WindowsFormsApp_Protocolo.exe
+E:\C#\AULA 3\WindowsForms\WindowsFormsApp_Protocolo\WindowsFormsApp_Protocolo\obj\Debug\WindowsFormsApp_Protocolo.pdb

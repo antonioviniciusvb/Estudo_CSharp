@@ -1,0 +1,5 @@
+F:\C#\AULA 1\ConsoleAppStrings\ConsoleAppStrings\bin\Debug\ConsoleAppStrings.exe.config
+F:\C#\AULA 1\ConsoleAppStrings\ConsoleAppStrings\bin\Debug\ConsoleAppStrings.exe
+F:\C#\AULA 1\ConsoleAppStrings\ConsoleAppStrings\bin\Debug\ConsoleAppStrings.pdb
+F:\C#\AULA 1\ConsoleAppStrings\ConsoleAppStrings\obj\Debug\ConsoleAppStrings.exe
+F:\C#\AULA 1\ConsoleAppStrings\ConsoleAppStrings\obj\Debug\ConsoleAppStrings.pdb

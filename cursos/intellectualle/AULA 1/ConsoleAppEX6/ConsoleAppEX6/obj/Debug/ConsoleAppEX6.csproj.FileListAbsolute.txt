@@ -1,0 +1,8 @@
+F:\C#\AULA 1\ConsoleAppEX6\ConsoleAppEX6\bin\Debug\ConsoleAppEX6.exe.config
+F:\C#\AULA 1\ConsoleAppEX6\ConsoleAppEX6\bin\Debug\ConsoleAppEX6.exe
+F:\C#\AULA 1\ConsoleAppEX6\ConsoleAppEX6\bin\Debug\ConsoleAppEX6.pdb
+F:\C#\AULA 1\ConsoleAppEX6\ConsoleAppEX6\obj\Debug\ConsoleAppEX6.exe
+F:\C#\AULA 1\ConsoleAppEX6\ConsoleAppEX6\obj\Debug\ConsoleAppEX6.pdb
+E:\C#\AULA 1\ConsoleAppEX6\ConsoleAppEX6\bin\Debug\ConsoleAppEX6.exe.config
+E:\C#\AULA 1\ConsoleAppEX6\ConsoleAppEX6\obj\Debug\ConsoleAppEX6.exe
+E:\C#\AULA 1\ConsoleAppEX6\ConsoleAppEX6\obj\Debug\ConsoleAppEX6.pdb

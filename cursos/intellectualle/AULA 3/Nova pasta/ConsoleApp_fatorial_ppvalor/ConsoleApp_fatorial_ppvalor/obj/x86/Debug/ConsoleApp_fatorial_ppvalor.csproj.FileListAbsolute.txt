@@ -1,0 +1,4 @@
+F:\C#\AULA 3\Nova pasta\ConsoleApp_fatorial_ppvalor\ConsoleApp_fatorial_ppvalor\bin\Debug\ConsoleApp_fatorial_ppvalor.exe
+F:\C#\AULA 3\Nova pasta\ConsoleApp_fatorial_ppvalor\ConsoleApp_fatorial_ppvalor\bin\Debug\ConsoleApp_fatorial_ppvalor.pdb
+F:\C#\AULA 3\Nova pasta\ConsoleApp_fatorial_ppvalor\ConsoleApp_fatorial_ppvalor\obj\x86\Debug\ConsoleApp_fatorial_ppvalor.exe
+F:\C#\AULA 3\Nova pasta\ConsoleApp_fatorial_ppvalor\ConsoleApp_fatorial_ppvalor\obj\x86\Debug\ConsoleApp_fatorial_ppvalor.pdb

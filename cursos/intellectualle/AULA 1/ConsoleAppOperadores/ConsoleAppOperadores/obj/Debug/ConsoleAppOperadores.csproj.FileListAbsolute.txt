@@ -1,0 +1,6 @@
+F:\C#\AULA 1\ConsoleAppOperadores\ConsoleAppOperadores\bin\Debug\ConsoleAppOperadores.exe.config
+F:\C#\AULA 1\ConsoleAppOperadores\ConsoleAppOperadores\obj\Debug\ConsoleAppOperadores.csprojResolveAssemblyReference.cache
+F:\C#\AULA 1\ConsoleAppOperadores\ConsoleAppOperadores\bin\Debug\ConsoleAppOperadores.exe
+F:\C#\AULA 1\ConsoleAppOperadores\ConsoleAppOperadores\bin\Debug\ConsoleAppOperadores.pdb
+F:\C#\AULA 1\ConsoleAppOperadores\ConsoleAppOperadores\obj\Debug\ConsoleAppOperadores.exe
+F:\C#\AULA 1\ConsoleAppOperadores\ConsoleAppOperadores\obj\Debug\ConsoleAppOperadores.pdb

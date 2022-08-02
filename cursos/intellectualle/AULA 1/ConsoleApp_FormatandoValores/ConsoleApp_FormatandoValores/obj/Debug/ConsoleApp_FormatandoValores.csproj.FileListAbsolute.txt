@@ -1,0 +1,5 @@
+F:\C#\AULA 1\ConsoleApp_FormatandoValores\ConsoleApp_FormatandoValores\bin\Debug\ConsoleApp_FormatandoValores.exe.config
+F:\C#\AULA 1\ConsoleApp_FormatandoValores\ConsoleApp_FormatandoValores\bin\Debug\ConsoleApp_FormatandoValores.exe
+F:\C#\AULA 1\ConsoleApp_FormatandoValores\ConsoleApp_FormatandoValores\bin\Debug\ConsoleApp_FormatandoValores.pdb
+F:\C#\AULA 1\ConsoleApp_FormatandoValores\ConsoleApp_FormatandoValores\obj\Debug\ConsoleApp_FormatandoValores.exe
+F:\C#\AULA 1\ConsoleApp_FormatandoValores\ConsoleApp_FormatandoValores\obj\Debug\ConsoleApp_FormatandoValores.pdb

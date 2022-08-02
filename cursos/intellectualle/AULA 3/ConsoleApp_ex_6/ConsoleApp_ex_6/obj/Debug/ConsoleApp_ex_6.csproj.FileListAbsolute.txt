@@ -1,0 +1,6 @@
+E:\C#\AULA 3\ConsoleApp_ex_6\ConsoleApp_ex_6\bin\Debug\ConsoleApp_ex_6.exe.config
+E:\C#\AULA 3\ConsoleApp_ex_6\ConsoleApp_ex_6\obj\Debug\ConsoleApp_ex_6.csprojResolveAssemblyReference.cache
+E:\C#\AULA 3\ConsoleApp_ex_6\ConsoleApp_ex_6\bin\Debug\ConsoleApp_ex_6.exe
+E:\C#\AULA 3\ConsoleApp_ex_6\ConsoleApp_ex_6\bin\Debug\ConsoleApp_ex_6.pdb
+E:\C#\AULA 3\ConsoleApp_ex_6\ConsoleApp_ex_6\obj\Debug\ConsoleApp_ex_6.exe
+E:\C#\AULA 3\ConsoleApp_ex_6\ConsoleApp_ex_6\obj\Debug\ConsoleApp_ex_6.pdb

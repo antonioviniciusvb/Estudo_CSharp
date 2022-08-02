@@ -1,0 +1,6 @@
+F:\C#\AULA 1\ConsoleAppTry_Catch\ConsoleAppTry_Catch\bin\Debug\ConsoleAppTry_Catch.exe.config
+F:\C#\AULA 1\ConsoleAppTry_Catch\ConsoleAppTry_Catch\obj\Debug\ConsoleAppTry_Catch.csprojResolveAssemblyReference.cache
+F:\C#\AULA 1\ConsoleAppTry_Catch\ConsoleAppTry_Catch\bin\Debug\ConsoleAppTry_Catch.exe
+F:\C#\AULA 1\ConsoleAppTry_Catch\ConsoleAppTry_Catch\bin\Debug\ConsoleAppTry_Catch.pdb
+F:\C#\AULA 1\ConsoleAppTry_Catch\ConsoleAppTry_Catch\obj\Debug\ConsoleAppTry_Catch.exe
+F:\C#\AULA 1\ConsoleAppTry_Catch\ConsoleAppTry_Catch\obj\Debug\ConsoleAppTry_Catch.pdb

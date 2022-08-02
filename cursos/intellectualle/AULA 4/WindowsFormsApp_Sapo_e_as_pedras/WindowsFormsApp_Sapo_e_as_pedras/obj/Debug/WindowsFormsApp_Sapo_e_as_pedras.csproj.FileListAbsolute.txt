@@ -1,0 +1,6 @@
+E:\C#\AULA 4\WindowsFormsApp_Sapo_e_as_pedras\WindowsFormsApp_Sapo_e_as_pedras\bin\Debug\WindowsFormsApp_Sapo_e_as_pedras.exe.config
+E:\C#\AULA 4\WindowsFormsApp_Sapo_e_as_pedras\WindowsFormsApp_Sapo_e_as_pedras\bin\Debug\WindowsFormsApp_Sapo_e_as_pedras.exe
+E:\C#\AULA 4\WindowsFormsApp_Sapo_e_as_pedras\WindowsFormsApp_Sapo_e_as_pedras\bin\Debug\WindowsFormsApp_Sapo_e_as_pedras.pdb
+E:\C#\AULA 4\WindowsFormsApp_Sapo_e_as_pedras\WindowsFormsApp_Sapo_e_as_pedras\obj\Debug\WindowsFormsApp_Sapo_e_as_pedras.csprojResolveAssemblyReference.cache
+E:\C#\AULA 4\WindowsFormsApp_Sapo_e_as_pedras\WindowsFormsApp_Sapo_e_as_pedras\obj\Debug\WindowsFormsApp_Sapo_e_as_pedras.exe
+E:\C#\AULA 4\WindowsFormsApp_Sapo_e_as_pedras\WindowsFormsApp_Sapo_e_as_pedras\obj\Debug\WindowsFormsApp_Sapo_e_as_pedras.pdb

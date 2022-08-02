@@ -1,0 +1,10 @@
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Onibus\ConsoleApp_Onibus\bin\Debug\ConsoleApp_Onibus.exe
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Onibus\ConsoleApp_Onibus\bin\Debug\ConsoleApp_Onibus.pdb
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Onibus\ConsoleApp_Onibus\obj\x86\Debug\ConsoleApp_Onibus.exe
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Onibus\ConsoleApp_Onibus\obj\x86\Debug\ConsoleApp_Onibus.pdb
+E:\C#\AULA 3\Nova pasta\ConsoleApp_Onibus\ConsoleApp_Onibus\obj\x86\Debug\ConsoleApp_Onibus.exe
+E:\C#\AULA 3\Nova pasta\ConsoleApp_Onibus\ConsoleApp_Onibus\obj\x86\Debug\ConsoleApp_Onibus.pdb
+E:\C#\AULA 3\Nova pasta\ConsoleApp_Onibus\ConsoleApp_Onibus\obj\x86\Debug\ConsoleApp_Onibus.csprojResolveAssemblyReference.cache
+E:\C#\AULA 3\Nova pasta\ConsoleApp_Onibus\ConsoleApp_Onibus\bin\Debug\ConsoleApp_Onibus.exe
+E:\C#\AULA 3\Nova pasta\ConsoleApp_Onibus\ConsoleApp_Onibus\bin\Debug\ConsoleApp_Onibus.pdb
+F:\C#\AULA 3\Nova pasta\ConsoleApp_Onibus\ConsoleApp_Onibus\obj\x86\Debug\ConsoleApp_Onibus.csprojResolveAssemblyReference.cache

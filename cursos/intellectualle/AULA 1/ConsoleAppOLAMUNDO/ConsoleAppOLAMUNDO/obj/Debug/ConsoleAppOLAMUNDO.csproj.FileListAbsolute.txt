@@ -1,0 +1,6 @@
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\Projeto Diego\ConsoleAppOLAMUNDO\ConsoleAppOLAMUNDO\bin\Debug\ConsoleAppOLAMUNDO.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\Projeto Diego\ConsoleAppOLAMUNDO\ConsoleAppOLAMUNDO\obj\Debug\ConsoleAppOLAMUNDO.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\Projeto Diego\ConsoleAppOLAMUNDO\ConsoleAppOLAMUNDO\bin\Debug\ConsoleAppOLAMUNDO.exe
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\Projeto Diego\ConsoleAppOLAMUNDO\ConsoleAppOLAMUNDO\bin\Debug\ConsoleAppOLAMUNDO.pdb
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\Projeto Diego\ConsoleAppOLAMUNDO\ConsoleAppOLAMUNDO\obj\Debug\ConsoleAppOLAMUNDO.exe
+C:\Users\Aluno\Documents\Visual Studio 2013\Projects\Projeto Diego\ConsoleAppOLAMUNDO\ConsoleAppOLAMUNDO\obj\Debug\ConsoleAppOLAMUNDO.pdb

@@ -1,0 +1,4 @@
+F:\C#\AULA 2\ConsoleAppEX_3\ConsoleAppEX_3\bin\Debug\ConsoleAppEX_3.exe
+F:\C#\AULA 2\ConsoleAppEX_3\ConsoleAppEX_3\bin\Debug\ConsoleAppEX_3.pdb
+F:\C#\AULA 2\ConsoleAppEX_3\ConsoleAppEX_3\obj\x86\Debug\ConsoleAppEX_3.exe
+F:\C#\AULA 2\ConsoleAppEX_3\ConsoleAppEX_3\obj\x86\Debug\ConsoleAppEX_3.pdb

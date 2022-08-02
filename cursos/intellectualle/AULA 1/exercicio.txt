@@ -1,0 +1,83 @@
+Exercícios
+
+1) Calcular a quantidade de litros de combustível gasta em uma viagem utilizando um
+automóvel que faz 12 km por litro. Para o cálculo o usuário deve fornecer o tempo gasto na
+viagem e a velocidade média.
+
+A fómula da distância é :
+
+Distancia = Tempo * velocidade
+
+Para calcular a quantidade de litros gastos na viagem a fórmula usada é:
+
+Litros_usados = Distancia / 12
+
+O programa deve apresentar os valores de: velocidade média, tempo gasto, distância percorrida e a quantidade de litros gastos na viagem.
+
+
+2) Converter uma temperatura de Graus Celsius para Farenheit.
+
+A fórmula é: F = (9 * C + 160) / 5;
+
+A variável F representa Farenheit e C representa graus Celsius.
+
+
+3)Ler uma temperatura em graus Farenheit e converter para Celsius usando a fórmula:
+
+C = ((F - 32) * 5 ) / 9;
+
+
+4) Apresentar o valor do volume de um galão (uma lata) de óleo utilizando a fórmula:
+V = 3.1415927 * R * R * H, em que as variáveis V, R e H representam respectivamente o volume
+o raio e a altura do galão.
+
+
+
+
+5)Faça um algoritmo que leia uma quantidade não determinada de números positivos.
+Calcule a quantidade de números pares e ímpares, a média de valores pares,
+a média geral dos números lidos. O número que encerrará a leitura será zero.
+
+
+
+
+
+6)Em uma eleiçao presidencial existem 4 candidatos. Os votos são informados através de códigos
+Os dados informados para a contagem dos votos obedecem a seguinte codificação.
+1,2,3,4 = voto para os respectivos candidatos
+
+5 = voto nulo
+6 = voto em branco
+
+Elabore um algoritmo que leia o código do candidato em um voto.
+Calcule e escreva.
+
+ - total de votos para os respectivos candidatos
+ - total dos votos nulos
+ - total de votos em branco
+ 
+ Como finalizador do conjunto de votos tem-se o valor zero
+
+
+
+
+7)Crie um programa que leia um numero entre 2 e 20 e gere uma tela com a seguinte 
+configuração:
+             
+Digite um numero:
+7
+Saída do programa:
+1234567
+x123456
+xx12345
+xxx1234
+xxxx123
+xxxxx12
+
+
+
+8)Dados: dez números digitados pelo usuário. Construa um algaritmo para mostrar os valores negativos e que calcule e mostre a média dos valores menores que zero.
+
+9)Construa um algoritmo para somar e contar os números pares e impares de 20 números inteiros introduzidos pelo usuário.
+
+10)Calcule a soma de dez números pares fornecidos pelo usuário; se o número for impar, emitir mensagem informando o usuário, emitir o resultado da soma. 
